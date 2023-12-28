@@ -115,3 +115,18 @@ a:active {
         height: 60px;
     }
 }
+
+/* Just a parent container for the videos */
+.videos {
+    margin: 20px auto;
+    max-width: 700px;
+}
+
+/* Play overlay */
+
+.video-wrap {
+    position: relative;
+    max-width: 700px;
+    width: 100%;
+    margin-bottom: 10px;
+}
